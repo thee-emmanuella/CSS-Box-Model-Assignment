@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+/* First Section */
+.first {
+    color: green;
+    margin: 2rem;
+    border: 2px solid;
+    padding: 10px;
+}
+
+.first h1 {
+    font-size: 18px;
+}
+
+.first p {
+    font-size: 14px;
+}
+
+/* Second Section */
+.second {
+    color: red;
+    margin: 2rem;
+    border-style: double;
+    padding: 10px;
+}
+
+.second h1 {
+    font-size: 18px;
+}
+
+.second p {
+    font-size: 14px;
+}
+
+.second li {
+    list-style-type: square;
+}
+
+/* Third Section */
+.third {
+    color: blue;
+    margin: 2rem;
+    border: 2px solid;
+    padding: 10px;
+}
+
+.third h1 {
+    font-size: 18px;
+}
+
+.third p {
+    font-size: 14px;
+}
